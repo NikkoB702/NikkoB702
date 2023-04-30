@@ -3,7 +3,7 @@
 <!--
 **NikkoB702/NikkoB702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Alt Text](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)](https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA)
+https://gfycat.com/bigheartedgrimflea
 
 Here are some ideas to get you started:
 
