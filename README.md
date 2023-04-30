@@ -3,7 +3,11 @@
 <!--
 **NikkoB702/NikkoB702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Alt Text](https://thumbs.gfycat.com/BigheartedGrimFlea-size_restricted.gif)](https://gfycat.com/bigheartedgrimflea)
+
+
+
+https://user-images.githubusercontent.com/80132877/235362801-e7f70fc9-0ef7-42bc-9ae5-3f2d5b760be4.mp4
+
 
 Here are some ideas to get you started:
 
