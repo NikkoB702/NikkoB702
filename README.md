@@ -5,7 +5,7 @@
 
 
 
-![octocat-1682870551266](https://user-images.githubusercontent.com/80132877/235363911-205f837f-d414-4068-afe8-2e44fdb02017.png)
+
 
 Here are some ideas to get you started:
 
