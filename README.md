@@ -3,6 +3,7 @@
 <!--
 **NikkoB702/NikkoB702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![octocat-1682870551266](https://user-images.githubusercontent.com/80132877/235363465-6f35c01c-f55c-4436-acdf-28e8a1a57133.png)
 
 
 Here are some ideas to get you started:
