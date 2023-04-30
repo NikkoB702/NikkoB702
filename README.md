@@ -5,10 +5,6 @@
 
 
 
-
-https://user-images.githubusercontent.com/80132877/235362801-e7f70fc9-0ef7-42bc-9ae5-3f2d5b760be4.mp4
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
