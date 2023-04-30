@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikko Bronzan</h1>
 <h3 align="center">A passionate data analyst from Las Vegas, NV</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikkob702&label=Profile%20views&color=0e75b6&style=flat" alt="nikkob702" /> </p>
+<p align="left"> <img src="C:/Users/Home/NikkoB702/Images/octocat-1682870551266" alt="Nikko Bronzan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikkob702" alt="nikkob702" /></a> </p>
-
-<p align="center">
-  <img src="C:/Users/Home/NikkoB702/Images/octocat-1682870551266.jpg" width="400" height="300"/>
-</p>
 
 
 - 🔭 I’m currently working on **various portfolio projects**
